@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sahithi-99/sahithi-beingzero/issues"
   },
-  "homepage": "https://github.com/Sahithi-99/sahithi-beingzero#readme"
+  "homepage": "https://github.com/Sahithi-99/sahithi-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
